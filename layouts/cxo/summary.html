@@ -1,0 +1,13 @@
+<div class="cxo cxo-summary">
+  {{ if .Params.icon }}
+  <div class="cxo-image">
+    <img height="80" width="80" src="{{ .Params.icon | relURL }}" alt="{{ .Title }}" />
+  </div>
+  {{ end }}
+  <div class="cxo-content">
+    <h2 class="cxo-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 150 " ..." }}
+  </div>
+</div>

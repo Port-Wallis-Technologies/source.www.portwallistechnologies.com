@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/portwallistechnologies",
+        "image": "/images/github-logo-white.svg"
+    },
+    {
+        "name": "Mastodon",
+        "link": "https://mastodon.world/@portwallistechnologies",
+        "image": "/images/mastodon-logo.svg"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/portwallistechnologies",
+        "image": "/images/linkedin-logo.svg"
+    }
+]

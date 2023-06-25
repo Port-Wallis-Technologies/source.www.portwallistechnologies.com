@@ -1,0 +1,13 @@
+<div class="pricing pricing-summary">
+  {{ if .Params.icon }}
+  <div class="pricing-image">
+    <img height="80" width="80" src="{{ .Params.icon | relURL }}" alt="{{ .Title }}" />
+  </div>
+  {{ end }}
+  <div class="pricing-content">
+    <h2 class="pricing-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 150 " ..." }}
+  </div>
+</div>

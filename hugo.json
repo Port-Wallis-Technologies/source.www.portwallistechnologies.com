@@ -1,0 +1,67 @@
+{
+  "baseURL": "/",
+  "languageCode": "en-us",
+  "theme": "hugo-hero-theme",
+  "themesDir": "themes",
+  "publishDir": "c:/websites/www.portwallistechnologies.com",
+  "title": "Port Wallis Technologies",
+  "canonifyURLs":"false",
+  "copyright": "Port Wallis Technologies",
+  "menu": {
+    "main": [
+      {
+        "name": "Services",
+        "pageRef": "/services/",
+        "weight": 1
+      },
+      {
+        "name": "Virtual CxO",
+        "title": "CxO",
+        "pageRef": "/cxo/",
+        "weight": 2
+      },
+      {
+        "name": "Pricing",
+        "pageRef": "/pricing/",
+        "weight": 3
+      },
+      {
+        "name": "About",
+        "pageRef": "/about/",
+        "weight": 4
+      },
+      {
+        "name": "Contact",
+        "pageRef": "/contact/",
+        "weight": 5
+      }
+    ]
+  },
+  "module": {
+    "hugoVersion": {
+      "extended": true,
+      "min": "0.92.0"
+    }
+  },
+  "params": {
+    "google_analytics_id": "",
+    "homepage_meta_tags": {
+      "meta_description": "Port Wallis Technologies wants to bring bring big company capabilities to your small business.",
+      "meta_og_type": "website",
+      "meta_twitter_card": "summary"
+    },
+    "logo": {
+      "alt": "Port Wallis Technologies",
+      "desktop": "images/pwt-logo.svg",
+      "desktop_height": "29px",
+      "desktop_width": "217px",
+      "mobile": "images/pwt-logo.svg",
+      "mobile_height": "36px",
+      "mobile_width": "36px"
+    }
+  },
+  "permalinks": {
+    "pages": "/:filename/",
+    "post": "/:year/:month/:day/:slug/"
+  }
+}
