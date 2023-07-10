@@ -6,7 +6,7 @@ background: ''
 align: right
 heroHeading: 'Our Approach'
 heroSubHeading: "Working Together"
-heroBackground: '/images/approach-bg.png'
+heroBackground: '/images/approach-bg.jpeg'
 ---
 
 We focus on leveraging technology to bridge the gap between big companies and small and medium-sized businesses.

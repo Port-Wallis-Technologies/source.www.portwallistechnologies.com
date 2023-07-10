@@ -10,4 +10,4 @@ heroSubHeading: "Fixed Price - Unless you don't like that"
 
 We prefer fixed price projects that have a fair method of changing scope so that costs stay contained while spreading risk amongst all concerned.
 
-We will entertain time and materials based projects as well if that is what makes the most sense to you, the client.
+We will entertain time and materials based projects if that is what makes the most sense to you, the client. Be aware that in our experience this is usually more expensive.

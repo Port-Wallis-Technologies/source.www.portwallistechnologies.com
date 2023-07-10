@@ -28,7 +28,8 @@
         <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.contact.address }}</li>
         {{ end }}
         {{ if .Site.Data.contact.calendar }}
-        <li style="white-space: pre-wrap;"><strong>Calendar: </strong><a href="{{ .Site.Data.contact.calendar }}">calendly.com/portwallistech</a></li>
+        <li style="white-space: pre-wrap;"><strong>Calendar: </strong><a
+            href="{{ .Site.Data.contact.calendar }}">calendly.com/portwallistech</a></li>
         {{ end }}
       </ul>
       {{ if .Site.Data.contact.hours }}
@@ -42,6 +43,12 @@
           <td class="closes">{{ .close }}</td>
         </tr>
         {{ end }}
+        <!-- Calendly badge widget begin -->
+        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+        <script
+          type="text/javascript">window.onload = function () { Calendly.initBadgeWidget({ url: 'https://calendly.com/portwallistech/free-phone-consultation?hide_gdpr_banner=1', text: 'Free Phone Consultation', color: '#50B751', textColor: '#ffffff', branding: undefined }); }</script>
+        <!-- Calendly badge widget end -->
       </table>
       {{ end }}
     </div>

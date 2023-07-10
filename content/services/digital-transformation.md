@@ -6,7 +6,7 @@ featured: true
 weight: 2
 heroHeading: 'Digital Transformation'
 heroSubHeading: 'Modernize Your Business'
-heroBackground: '/images/digital-transformation-bg.jpg'
+heroBackground: '/images/digital-transformation-bg.jpeg'
 ---
 ---
 

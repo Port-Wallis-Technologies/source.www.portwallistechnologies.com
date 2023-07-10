@@ -6,7 +6,7 @@ background: '/images/vision-bg.png'
 align: right
 heroHeading: 'Our Vision'
 heroSubHeading: "Level The Playing Field"
-heroBackground: '/images/vision-bg.png'
+heroBackground: '/images/vision-bg.jpeg'
 ---
 
 At Port Wallis Technologies, we strive to create a future in which all Small and Medium Businesses have access to the same technology and capabilities as large enterprises.
