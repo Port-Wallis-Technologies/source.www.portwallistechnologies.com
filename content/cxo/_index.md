@@ -3,7 +3,7 @@
 date: 2023-05-06 06:58:20
 heroHeading: 'Virtual CxO'
 heroSubHeading: 'CIO, CTO, CISO, CDO - Can you afford not to?'
-heroBackground: '/images/cxo-bg.jpeg'
+heroBackground: '/images/cxo-bg.jpg'
 aliases: 
     - /services/virtual-cxo-service/
 ---

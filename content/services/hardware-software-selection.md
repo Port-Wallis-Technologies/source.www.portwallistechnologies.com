@@ -5,7 +5,7 @@ icon: '/images/hardware-software-icon.svg'
 featured: true
 heroHeading: 'Hardware and Software Selection'
 heroSubHeading: 'Let us help you shop'
-heroBackground: '/images/hardware-software-bg.jpeg'
+heroBackground: '/images/hardware-software-bg.jpg'
 weight: 4
 ---
 ---

@@ -6,7 +6,7 @@ background: ''
 align: right
 heroHeading: 'Our Mission'
 heroSubHeading: "Improve To Empower"
-heroBackground: '/images/mission-bg.jpeg'
+heroBackground: '/images/mission-bg.jpg'
 ---
 
 At Port Wallis Technologies, our mission is to empower small and medium-sized businesses to succeed in the increasingly globalized world by providing them with access to large business capabilities.

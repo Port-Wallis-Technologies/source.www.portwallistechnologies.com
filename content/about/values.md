@@ -5,7 +5,7 @@ date: 2023-04-19 07:15:46
 align: left
 heroHeading: 'Our Values'
 heroSubHeading: "What Guides Us"
-heroBackground: '/images/values-bg.jpeg'
+heroBackground: '/images/values-bg.jpg'
 ---
 
 Port Wallis Technologies adheres to a set of values that we believe help the company as a business partner, as an employer, and as a corporate citizen in society.
