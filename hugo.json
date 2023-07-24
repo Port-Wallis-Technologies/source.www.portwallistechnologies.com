@@ -34,6 +34,11 @@
         "name": "Contact",
         "pageRef": "/contact/",
         "weight": 5
+      },
+      {
+        "name": "Careers",
+        "pageRef": "/careers/",
+        "weight": 6
       }
     ]
   },
