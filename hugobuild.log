@@ -1,10 +1,12 @@
-INFO 2023/08/11 06:56:47 syncing static files to \
-INFO 2023/08/11 06:56:47 process in 4 ms
-INFO 2023/08/11 06:56:47 assemble in 3 ms
-INFO 2023/08/11 06:56:47 render in 135 ms
-INFO 2023/08/11 06:56:47 postProcess in 0 ms
-INFO 2023/08/11 06:58:27 syncing static files to \
-INFO 2023/08/11 06:58:27 process in 3 ms
-INFO 2023/08/11 06:58:27 assemble in 125 ms
-INFO 2023/08/11 06:58:27 render in 128 ms
-INFO 2023/08/11 06:58:27 postProcess in 0 ms
+INFO 2023/08/11 07:50:45 removing all files from destination that don't exist in static dirs
+INFO 2023/08/11 07:50:45 syncing static files to \
+INFO 2023/08/11 07:50:46 process in 5 ms
+INFO 2023/08/11 07:50:46 assemble in 144 ms
+INFO 2023/08/11 07:50:46 render in 146 ms
+INFO 2023/08/11 07:50:46 postProcess in 0 ms
+INFO 2023/08/11 07:52:13 removing all files from destination that don't exist in static dirs
+INFO 2023/08/11 07:52:13 syncing static files to \
+INFO 2023/08/11 07:52:13 process in 11 ms
+INFO 2023/08/11 07:52:13 assemble in 119 ms
+INFO 2023/08/11 07:52:13 render in 135 ms
+INFO 2023/08/11 07:52:13 postProcess in 0 ms
