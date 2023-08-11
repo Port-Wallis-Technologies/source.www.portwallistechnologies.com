@@ -4,9 +4,12 @@
   "theme": "hugo-hero-theme",
   "themesDir": "themes",
   "publishDir": "c:/websites/www.portwallistechnologies.com",
+  "cleanDestinationDir": "true",
   "title": "Port Wallis Technologies",
-  "canonifyURLs":"false",
+  "canonifyURLs": "false",
   "copyright": "Port Wallis Technologies",
+  "enableGitInfo": "true",
+  "buildStats": "true",
   "menu": {
     "main": [
       {
