@@ -3,6 +3,11 @@
 
 <head>
   <meta charset="utf-8">
+
+  {{ if   page.Description }}
+  <meta name="description" content="{{ page.Description}}">
+  {{ end }}
+  
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ block "meta_tags" . }}{{end}}

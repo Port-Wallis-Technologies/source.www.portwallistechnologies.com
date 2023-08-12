@@ -7,6 +7,7 @@ align: right
 heroHeading: 'Our Approach'
 heroSubHeading: "Working Together"
 heroBackground: '/images/approach-bg.jpg'
+description: "Bridging the gap between big companies and small and medium-sized businesses - Call 910-386-4560 for more information"
 ---
 
 We focus on leveraging technology to bridge the gap between big companies and small and medium-sized businesses.

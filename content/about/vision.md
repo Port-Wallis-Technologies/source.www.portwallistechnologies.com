@@ -6,6 +6,7 @@ align: right
 heroHeading: 'Our Vision'
 heroSubHeading: "Level The Playing Field"
 heroBackground: '/images/vision-bg.jpg'
+description: "Small business drives the world - Let us help - Call 910-386-4560"
 ---
 
 At Port Wallis Technologies, we strive to create a future in which all Small and Medium Businesses have access to the same technology and capabilities as large enterprises.

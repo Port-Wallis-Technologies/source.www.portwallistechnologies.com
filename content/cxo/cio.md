@@ -1,12 +1,13 @@
 ---
 title: 'Virtual CIO'
-date: 2023-05-06 07:00:50-04
+date: 2023-08-12 07:12:48
 icon: '/images/cio-icon.svg'
 featured: false
 weight: 1
 heroHeading: 'Virtual CIO'
 heroSubHeading: 'Strategy Without Stress'
 heroBackground: '/images/cio-bg.jpg'
+description: "vCIO - Strategy Without Stress - Call 910-386-4560 for more information"
 ---
 
 We provide our clients with the specialized expertise of a CIO without the cost of a full-time employee, enabling them to maximize their IT investments and ensure their IT strategies are aligned with their business objectives.

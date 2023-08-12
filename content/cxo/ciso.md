@@ -1,12 +1,13 @@
 ---
 title: 'Virtual CISO'
-date: 2018-11-18T12:33:46+10:00
+date: 2023-08-12 07:13:19
 icon: '/images/ciso-icon.svg'
 featured: false
 weight: 1
 heroHeading: 'Virtual Chief Information Security Officer'
 heroSubHeading: 'Security Strategy Without Tears'
 heroBackground: '/images/ciso-bg.jpg'
+description: "vCISO - Security Strategy Without Tears- Call 910-386-4560 for more information"
 ---
 
 Our Virtual CISO service provides a detailed security review, ongoing advice and assistance, and ongoing risk assessment and management services. 

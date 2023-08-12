@@ -7,6 +7,7 @@ weight: 3
 heroHeading: 'Cloud Migration'
 heroSubHeading: 'Ditch Your Data Center'
 heroBackground: '/images/cloud-migration-bg.jpg'
+description: "Call 910-386-4560 to find out how to ditch your data center"
 ---
 
 Comprehensive Cloud Migration services help organizations move their existing infrastructure, applications, and data to the cloud. We enable businesses to take advantage of the scalability, cost-efficiency, and security that the cloud offers. We provide a range of services to help with the process, including:

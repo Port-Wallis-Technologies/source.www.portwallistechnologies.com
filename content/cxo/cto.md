@@ -1,12 +1,13 @@
 ---
 title: 'Virtual CTO'
-date: 2018-11-18T12:33:46+10:00
+date: 2023-08-12 07:13:03
 icon: '/images/cto-icon.svg'
 featured: false
 weight: 5
 heroHeading: 'Virtual CTO'
-heroSubHeading: 'Technology Solutions without the noise '
+heroSubHeading: 'Technology Strategy Without The Headaches'
 heroBackground: '/images/cto-bg.jpg'
+description: "vCTO - Technology Strategy Without The Headaches - Call 910-386-4560 for more information"
 ---
 
 Virtual CTO services offer expert advice and guidance on the best technological solutions for your organization.

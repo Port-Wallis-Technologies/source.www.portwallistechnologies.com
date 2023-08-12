@@ -6,6 +6,7 @@ align: right
 heroHeading: 'In A Nutshell'
 heroSubHeading: "Who Are We?"
 heroBackground: '/images/overview-bg.jpg'
+description: "We are a small business too! Call 910-386-4560 for more information"
 ---
 
 We are a small consulting company that is comprised of a core group of full-time staff with extensive experience in large organizations. From time to time, we also reach out to well-vetted freelancers and assistance from trusted business partners to ensure we have sufficient resources to complete current projects.

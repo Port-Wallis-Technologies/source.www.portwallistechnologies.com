@@ -6,6 +6,7 @@ hero-background: '/images/price-projects-bg.png'
 align: center
 heroHeading: 'Project Pricing'
 heroSubHeading: "Fixed Price - Unless you don't like that"
+description: "Call 910-386-4560 to see why DIY technology projects are often the most expensive option"
 ---
 
 We prefer fixed price projects that have a fair method of changing scope so that costs stay contained while spreading risk amongst all concerned.

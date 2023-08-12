@@ -7,6 +7,7 @@ heroHeading: 'Managed Services'
 heroSubHeading: 'Worry Free IT'
 heroBackground: '/images/managed-services-bg.jpg'
 weight: 5
+description: "Call 910-386-4560 to find out how we can lessen the stress of running your technology"
 ---
 ---
 

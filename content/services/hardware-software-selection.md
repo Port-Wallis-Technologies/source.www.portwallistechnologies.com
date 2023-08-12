@@ -7,6 +7,7 @@ heroHeading: 'Hardware and Software Selection'
 heroSubHeading: 'Let us help you shop'
 heroBackground: '/images/hardware-software-bg.jpg'
 weight: 4
+description: "call 910-386-4560 to talk about helping you shop for technology"
 ---
 ---
 Hardware and software selection services help you make the best choices for your business needs.

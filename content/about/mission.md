@@ -7,6 +7,7 @@ align: right
 heroHeading: 'Our Mission'
 heroSubHeading: "Improve To Empower"
 heroBackground: '/images/mission-bg.jpg'
+description: "Empowering small and medium-sized businesses to succeed - Call 910-386-4560 for more information"
 ---
 
 At Port Wallis Technologies, our mission is to empower small and medium-sized businesses to succeed in the increasingly globalized world by providing them with access to large business capabilities.

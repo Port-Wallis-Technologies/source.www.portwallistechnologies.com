@@ -1,12 +1,13 @@
 ---
 title: 'Virtual CDO'
-date: 2023-05-06 06:58:29
+date: 2023-08-12 07:12:39
 icon: '/images/cdo-icon.svg'
 featured: false
 weight: 1
 heroHeading: 'Virtual Chief Data Officer'
 heroSubHeading: 'Put Your Data To Work'
 heroBackground: '/images/cdo-bg.jpg'
+description: "vCDO - Put Your Data To Work - Call 910-386-4560 for more information"
 ---
 A Chief Data Officer (CDO) is often too expensive to justify.
 
