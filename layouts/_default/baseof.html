@@ -22,8 +22,9 @@
   {{ end }}
 
   {{ block "header_css" . }}{{ end }}
-  <script defer data-domain="portwallistechnologies.com" src="https://plausible.io/js/script.js"></script>
+{{ if  eq 1  2 }}  <script defer data-domain="portwallistechnologies.com" src="https://plausible.io/js/script.js"></script>
 </head>
+{{ end }}
 
 <body class='page {{ block "body_classes" . }}{{ end }}'>
   {{ partial "main-menu-mobile.html" . }}
