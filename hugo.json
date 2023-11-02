@@ -6,7 +6,7 @@
   "publishDir": "c:/websites/www.portwallistechnologies.com",
   "cleanDestinationDir": "true",
   "title": "Port Wallis Technologies",
-  "canonifyURLs": "false",
+  "canonifyURLs": "true",
   "copyright": "Port Wallis Technologies",
   "enableGitInfo": "true",
   "buildStats": "true",
