@@ -10,3 +10,9 @@ INFO 2023/08/11 07:52:13 process in 11 ms
 INFO 2023/08/11 07:52:13 assemble in 119 ms
 INFO 2023/08/11 07:52:13 render in 135 ms
 INFO 2023/08/11 07:52:13 postProcess in 0 ms
+INFO 2023/11/02 09:51:33 removing all files from destination that don't exist in static dirs
+INFO 2023/11/02 09:51:33 syncing static files to \
+INFO 2023/11/02 09:51:33 process in 16 ms
+INFO 2023/11/02 09:51:34 assemble in 145 ms
+INFO 2023/11/02 09:51:34 render in 232 ms
+INFO 2023/11/02 09:51:34 postProcess in 0 ms
